@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Sobre
 
-Atualmente cursando o 1º semestre de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID).
+Atualmente cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID).
 
 Sou apaixonado por tecnologia, desenvolvimento web e criação de soluções digitais. Tenho foco no desenvolvimento de sistemas web modernos, integração entre frontend e backend e construção de interfaces funcionais e responsivas.
 
